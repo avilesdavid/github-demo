@@ -23,3 +23,8 @@ can be on any web server or even local
 fyle system.
 
 # How to Contribute
+
+
+###Copyright
+
+2018 Git.Training
